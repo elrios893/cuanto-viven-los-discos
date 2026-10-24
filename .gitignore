@@ -1,0 +1,15 @@
+﻿# Datos de Backblaze (se descargan con src/descargar_datos.py)
+data/
+
+# Salidas pesadas o regenerables
+resultados/*.log
+resultados/*.err
+resultados/*.parquet
+resultados/km_vida_por_disco.csv
+
+# Enunciado del ejercicio (material del curso)
+Ejercicio guiado*.docx
+
+# Python y Jupyter
+__pycache__/
+.ipynb_checkpoints/

@@ -1,0 +1,9 @@
+remotezip
+kafka-python
+pymongo
+pandas
+matplotlib
+lifelines
+nbformat
+nbconvert
+ipykernel
